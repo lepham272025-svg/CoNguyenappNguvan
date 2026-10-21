@@ -1,0 +1,6 @@
+{
+  "name": "HUỲNH THÚC KHÁNG VĂN HỌC SỐNG AI",
+  "description": "Hệ sinh thái AI Ngữ văn – GDCD Trường THCS Huỳnh Thúc Kháng: Đọc sâu – Viết thật – Nói hay – Sống đẹp – Tư duy sáng rõ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
